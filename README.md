@@ -1,4 +1,8 @@
-|-- Next-Gen Recommender System.ipynb   # Jupyter Notebook for model development and evaluation
-|-- a_to_z_supermarket_model.h5         # Trained machine learning model (HDF5 format)
-|-- a_to_z_supermarket_transactions.csv # Dataset used for training and testing
-|-- README.md                           # Repository documentation
+# Next-Gen Recommender System
+
+## Repository Overview
+
+This repository contains the implementation of the **Next-Gen Recommender System**, a machine learning-based solution to analyze and recommend patterns from transactional data. The project includes the model, dataset, and code required for training and testing the recommender system.
+
+### Repository Structure
+
