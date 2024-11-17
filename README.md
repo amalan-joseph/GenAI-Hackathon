@@ -1,4 +1,4 @@
-# GenAI-Hackathon
+# Next-Gen Recommender System
 
 This repository contains the solution for the Gen-AI Hackathon, where a deep learning model is trained to predict customer categories based on transaction data.
 
