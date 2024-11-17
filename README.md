@@ -8,7 +8,7 @@ With its ability to process transactional data and deliver actionable insights, 
 
 This repository contains the implementation of the **Next-Gen Recommender System**, a machine learning-based solution to analyze and recommend patterns from transactional data. The project includes the model, dataset, and code required for training and testing the recommender system.
 
-# Implementation Details : 
+## Implementation Details : 
 
 The project implements a Next-Gen Recommender System designed to predict 
 product categories based on customer transactional data. Below are the detailed 
